@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://[내프로젝트].vercel.app/sitemap.xml
